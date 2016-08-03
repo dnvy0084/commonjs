@@ -1,0 +1,9 @@
+
+body{
+	background: green;
+}
+
+p{
+	color: #000;
+	border: 2px dotted #f00;
+}
