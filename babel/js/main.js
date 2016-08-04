@@ -33,7 +33,7 @@ new Main().run();
 
 
 // babel transpile : es2015 코드를 CommonJS 코드로 바꿔준다. 
-// babel js/ -f dist/ 로 컴파일 가능. 
+// babel js/ -d dist/ 로 컴파일 가능. 
 // node_modules 
 // babel-cli, babel-preset-2015
 
