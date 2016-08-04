@@ -38,3 +38,7 @@ class Temp{
 var t = new Temp();
 
 t.test();
+
+
+// bundler
+// browserify main.js -o dist/bundle.js
